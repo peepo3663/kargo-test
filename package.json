@@ -1,0 +1,22 @@
+{
+  "name": "kargo-tt",
+  "version": "1.0.0",
+  "description": "Kargo Test",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js 3 25 209"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peepo3663/kargo-test.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Wasupol Tungsakultong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peepo3663/kargo-test/issues"
+  },
+  "homepage": "https://github.com/peepo3663/kargo-test#readme"
+}
